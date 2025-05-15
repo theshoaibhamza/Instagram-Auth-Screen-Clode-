@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "962945543442",
+    "project_id": "newone-99f12",
+    "storage_bucket": "newone-99f12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962945543442:android:07a3b5b434444fa77d17cb",
+        "android_client_info": {
+          "package_name": "com.example.instagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPckHhcZtdUnIW9BFCLZhYWCCjM4DonYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
